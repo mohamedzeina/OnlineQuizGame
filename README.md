@@ -3,11 +3,14 @@
 
 Author & Contributor List:
 ---
-Mohamed Zeina 
-Taylan Gurel
-Ercan Dincer 
-Yasin Aydin
+Mohamed Zeina   
+Taylan Gurel  
+Ercan Dincer   
+Yasin Aydin  
 **Any reported bugs can be sent to mohamedzeina@sabanciuniv.edu**
+
+Introduction 
+---
 
 A client-server application which will operate as a simple quiz game. The application consists of two separate modules. 
 First module is the client module in which players will be able to enroll to an open quiz game and will be able to play with other players.
