@@ -7,7 +7,7 @@ Author & Contributor List:
 **Taylan Gurel**    
 **Ercan Dincer**     
 **Yasin Aydin**   
-**Any reported bugs can be sent to: mohamedzeina@sabanciuniv.edu**
+*Any reported bugs can be sent to: mohamedzeina@sabanciuniv.edu*
 
 Introduction 
 ---
