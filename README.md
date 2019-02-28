@@ -3,11 +3,11 @@
 
 Author & Contributor List:
 ---
-Mohamed Zeina   
-Taylan Gurel  
-Ercan Dincer   
-Yasin Aydin  
-**Any reported bugs can be sent to mohamedzeina@sabanciuniv.edu**
+**Mohamed Zeina**     
+**Taylan Gurel**    
+**Ercan Dincer**     
+**Yasin Aydin**   
+**Any reported bugs can be sent to: mohamedzeina@sabanciuniv.edu**
 
 Introduction 
 ---
